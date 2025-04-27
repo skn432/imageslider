@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable app
+drawable appstore
+drawable googledrive
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable instagram
+drawable social1
+drawable social2
+drawable social3
+drawable whatsapp
+id gridview
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Ex8
+style Theme.Ex8
+xml backup_rules
+xml data_extraction_rules
